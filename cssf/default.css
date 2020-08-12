@@ -1,0 +1,37 @@
+body{
+    margin-right:10%;
+    margin-left:10%;
+    font-family:sans-serif;
+    }
+blockquote{
+    margin-right:10%;
+    margin-left:10%;
+    color:gray;
+    font-size: small;
+}
+
+header{
+    padding:20px;
+    text-align:right;
+    font-family:Courier;
+    word-spacing:20px;
+    border-bottom: 1px solid grey;
+}
+
+/* back to top */
+.btt{
+    text-align: center;
+}
+
+
+#intro{
+    padding:5px;
+    text-align:left;
+    font-family:serif;
+    background-color:black;
+    color:white;
+}
+#left_align{
+    text-align:left;
+    float:left;
+}
